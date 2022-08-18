@@ -5,7 +5,7 @@ import Weather from "../components/Weather";
 export default function WeatherScreen({route}) {
     return (
         <View>
-            <Weather zipCode={route.params.zipCode} />
+            <Weather zipPlace={route.params.zipPlace} zipCode={route.params.zipCode} />
         </View>
     );
 }
