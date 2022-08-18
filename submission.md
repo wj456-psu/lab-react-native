@@ -1,7 +1,7 @@
 ### วิศววิท จุฬาทอง 6310110456
 
 - แก้ Style HomeScreen
-![HomeScreen](./screenshot1.jpg)
+<img src="./screenshot1.jpg" alt="Home" width="200"/>
 - แก้ Style WeatherScreen
-![WeatherScreen](./screenshot2.jpg)
+<img src="./screenshot2.jpg" alt="Weather" width="200"/>
 - เพิ่มข้อมูล FeelsLike
